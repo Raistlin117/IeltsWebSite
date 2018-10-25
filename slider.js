@@ -1,1 +1,2 @@
-I will teach you JS! 
+int x = 5;
+int y = 6;
